@@ -1,29 +1,13 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Sistema que permite que uma pessoa obtenha sugestões de novos amigos se baseando nas amizades já existentes.
 
-### What is this repository for? ###
+### Como executar o programa ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Através do terminal, acessar a pasta do programa
+* Executar o arquivo app.js pelo Node
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+```console
+foo@bar:~$ node app.js
+Servidor HTTP esta escutando na porta 3000
+```
